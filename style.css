@@ -1,8 +1,23 @@
 .body{
     border: 1px solid blue;
     background: lightblue;
-    border-right: 5px;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 5px;
     margin-left: 20px;
     margin-top: 20px;
-
+    width: 250px;
+}
+.form{
+    padding: 15px 30px;
+}
+.input{
+    border: 1px solid blue;
+    border-radius: 5px;
+    background: dodgerblue;
+    color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    padding: 5px 15px;
+    font-weight: bold;
 }

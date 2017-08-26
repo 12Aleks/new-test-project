@@ -5,11 +5,11 @@
 </heder>
 <body>
 <div class="body">
-<form >
-    Введите ваш логин: <input type="login"><br><br>
-    Введите ваш пароль: <input type="password"><br><br>
-    Введите ваш email:<input type="email"><br><br>
-    <input type="submit">
+<form class="form" action="/new/new-test-project/model.php" method="post" >
+    Введите ваш логин: <input type="login" name="login"><br><br>
+    Введите ваш пароль: <input type="password" name="pas"><br><br>
+    Введите ваш email:<input type="email" name="mail"><br><br>
+    <input type="submit" class="input">
 </form>
 </div>
 </body>
