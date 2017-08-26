@@ -1,3 +1,3 @@
 <?php
 session_start();
-echo 'Hello' . ' ' .  $_SESSION['user'] . '!';
+echo '<p class="text">' . 'Hello' . ' ' .  $_SESSION['user'] . '!' . '</p>';

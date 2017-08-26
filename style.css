@@ -7,8 +7,9 @@
     border-radius: 5px;
     margin-left: 20px;
     margin-top: 20px;
-    width: 250px;
+    width: 270px;
     float: left;
+
 }
 .form{
     padding: 15px 30px;
@@ -23,7 +24,6 @@
     padding: 5px 15px;
     font-weight: bold;
 }
-
 .body1{
     border: 1px solid red;
     background: sandybrown;
@@ -32,15 +32,28 @@
     border-radius: 5px;
     margin-left: 20px;
     margin-top: 20px;
-    width: 250px;
+    width: 270px;
+    float: left;
 }
 .input1{
     border: 1px solid red;
     border-radius: 5px;
-    background: sandybrown;
+    background: darksalmon;
     color: red;
     font-family: Arial, sans-serif;
     font-size: 15px;
     padding: 5px 15px;
     font-weight: bold;
+}
+.text{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.020em;
+    color: blue;
+}
+.text1{
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    letter-spacing: 0.020em;
+    color: red;
 }
