@@ -1,3 +1,4 @@
+
 .body{
     border: 1px solid blue;
     background: lightblue;
@@ -7,6 +8,7 @@
     margin-left: 20px;
     margin-top: 20px;
     width: 250px;
+    float: left;
 }
 .form{
     padding: 15px 30px;
@@ -16,6 +18,27 @@
     border-radius: 5px;
     background: dodgerblue;
     color: blue;
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    padding: 5px 15px;
+    font-weight: bold;
+}
+
+.body1{
+    border: 1px solid red;
+    background: sandybrown;
+    -webkit-border-radius:5px;
+    -moz-border-radius:5px;
+    border-radius: 5px;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 250px;
+}
+.input1{
+    border: 1px solid red;
+    border-radius: 5px;
+    background: sandybrown;
+    color: red;
     font-family: Arial, sans-serif;
     font-size: 15px;
     padding: 5px 15px;
